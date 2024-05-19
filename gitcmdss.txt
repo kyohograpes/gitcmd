@@ -1,0 +1,19 @@
+git init - initialise the local repo
+git status -check any change in repo
+git add <filename> - add file to staging
+git commit -m "comment"
+git diff - show difference in old and new file
+git branch -list branches in repo 
+git branch <new name> - create new branch
+git checkout <branch to switch to>
+git merge <from which branch>
+git push -u origin
+git remote add origin https://github.com/kyohograpes/Lab2.git
+git submodule add https://github.com/kyohograpes/Lab2.git
+git tag <tagname>
+git push origin --tags
+git clone --recurse-submodules
+
+
+
+
